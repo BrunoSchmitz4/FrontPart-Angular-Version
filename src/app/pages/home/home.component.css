@@ -1,0 +1,17 @@
+.fixed-top{
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    position: fixed;
+    height: max-content;
+    color: white;
+    padding: 0.45rem;
+    max-height: 120px;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 4px 30px rgb(146, 146, 146);
+}
+
+.divisor{
+    margin-top: 100px;
+}
